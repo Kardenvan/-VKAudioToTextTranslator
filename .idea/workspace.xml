@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="02133187-275d-4446-b918-c57620933fa7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Владислав &lt;kmlichking1234@mail.ru&gt;" />
+        <option value="Kardenvan &lt;kmlichking1234@mail.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="feature/000001.fileSystem" />
+                    <option name="lastUsedInstant" value="1609367352" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1609367351" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mOakjQZU9TARXoAuOPSzB9V0OC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Владислав\Projects\-VKAudioToTextTranslator" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="02133187-275d-4446-b918-c57620933fa7" name="Default Changelist" comment="" />
+      <created>1609367235358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609367235358</updated>
+      <workItem from="1609367236375" duration="706000" />
+      <workItem from="1609367951732" duration="2452000" />
+    </task>
+    <task id="LOCAL-00001" summary="VKATTT-000001 / Добавлены корневые файлы и библиотеки для создания расширения&#10;- Добавлен npm&#10;- Добавлена библиотека jquery&#10;- Добавлен файл manifest.json">
+      <created>1609368406157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609368406157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="VKATTT-000001 / Подключил jquery по-другому">
+      <created>1609369336131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609369336131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="VKATTT-000001 / Добавлены корневые файлы и библиотеки для создания расширения&#10;- Добавлен npm&#10;- Добавлена библиотека jquery&#10;- Добавлен файл manifest.json" />
+    <MESSAGE value="VKATTT-000001 / Подключил jquery по-другому" />
+    <option name="LAST_COMMIT_MESSAGE" value="VKATTT-000001 / Подключил jquery по-другому" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="88" width="1130" height="864" key="CommitChangelistDialog2" timestamp="1609369335546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="580" y="88" width="1130" height="864" key="CommitChangelistDialog2/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609369335546" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1609367309054">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609367309054" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1609369345436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609369345436" />
+    <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1609367361927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609367361927" />
+  </component>
+</project>
