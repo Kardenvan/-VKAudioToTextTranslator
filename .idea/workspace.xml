@@ -1,9 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:feature" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:feature/000001.fileSystem" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="02133187-275d-4446-b918-c57620933fa7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/background.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
@@ -32,7 +60,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/000002.realization" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,7 +76,7 @@
                 <list>
                   <RecentBranch>
                     <option name="branchName" value="feature/000001.fileSystem" />
-                    <option name="lastUsedInstant" value="1609367352" />
+                    <option name="lastUsedInstant" value="1609372919" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
@@ -94,6 +122,7 @@
       <updated>1609367235358</updated>
       <workItem from="1609367236375" duration="706000" />
       <workItem from="1609367951732" duration="2452000" />
+      <workItem from="1609411859173" duration="5248000" />
     </task>
     <task id="LOCAL-00001" summary="VKATTT-000001 / Добавлены корневые файлы и библиотеки для создания расширения&#10;- Добавлен npm&#10;- Добавлена библиотека jquery&#10;- Добавлен файл manifest.json">
       <created>1609368406157</created>
@@ -115,6 +144,30 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="feature/000001.fileSystem" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="VKATTT-000001 / Добавлены корневые файлы и библиотеки для создания расширения&#10;- Добавлен npm&#10;- Добавлена библиотека jquery&#10;- Добавлен файл manifest.json" />
     <MESSAGE value="VKATTT-000001 / Подключил jquery по-другому" />
@@ -125,6 +178,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="580" y="88" width="1130" height="864" key="CommitChangelistDialog2/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609369335546" />
+    <state x="723" y="222" key="RollbackChangesDialog" timestamp="1609417271831">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="222" key="RollbackChangesDialog/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609417271831" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1609367309054">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -137,5 +194,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609367361927" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1609412522270">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1680.21.1680.1010@0.0.1920.1040" timestamp="1609412522270" />
   </component>
 </project>

@@ -1,10 +1,17 @@
 chrome.runtime.onMessage.addListener(
     function(request, sender, sendResponse) {
         if( request.message === "clicked_browser_action" ) {
-            var firstHref = $("a[href^='http']").eq(0).attr("href");
-            console.log(firstHref);
+            let messages = $('div[data-mp3^="https://psv4.userapi.com"]');
+            let links = [];
 
-            chrome.runtime.sendMessage({"message": "open_new_tab", "url": "https://twitch.tv"});
+            console.log(messages);
+
+            for (let message of messages) {
+                let link = $(message).attr('data-mp3');
+                links.push(link);
+            }
+
+            console.log(links);
         }
     }
 );
