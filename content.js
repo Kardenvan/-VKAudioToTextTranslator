@@ -4,14 +4,28 @@ chrome.runtime.onMessage.addListener(
             let messages = $('div[data-mp3^="https://psv4.userapi.com"]');
             let links = [];
 
-            console.log(messages);
-
             for (let message of messages) {
-                let link = $(message).attr('data-mp3');
-                links.push(link);
-            }
+                let link = $(message).attr('data-ogg');
 
-            console.log(links);
+                let request = new XMLHttpRequest();
+                request.onload = requestListener;
+                request.open("post", "https://speech.googleapis.com/v1p1beta1/speech:recognize", false);
+                request.send({
+                    "audio": {
+                        "content": link
+                    },
+                    "config": {
+                        "enableAutomaticPunctuation": true,
+                        "encoding": "LINEAR16",
+                        "languageCode": "en-US",
+                        "model": "default"
+                    }
+                });
+            }
         }
     }
 );
+
+function requestListener() {
+    console.log(this.responseText);
+}
