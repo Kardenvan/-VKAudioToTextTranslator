@@ -34,7 +34,6 @@
     <list default="true" id="02133187-275d-4446-b918-c57620933fa7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/content.js" beforeDir="false" afterPath="$PROJECT_DIR$/content.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,6 +122,7 @@
       <workItem from="1609367236375" duration="706000" />
       <workItem from="1609367951732" duration="2452000" />
       <workItem from="1609411859173" duration="5248000" />
+      <workItem from="1609513865034" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="VKATTT-000001 / Добавлены корневые файлы и библиотеки для создания расширения&#10;- Добавлен npm&#10;- Добавлена библиотека jquery&#10;- Добавлен файл manifest.json">
       <created>1609368406157</created>
